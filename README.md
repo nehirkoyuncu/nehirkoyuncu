@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Nehir Koyuncu
 
-<!--
-**nehirkoyuncu/nehirkoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & ML-Oriented Software Engineer | Teaching Assistant @ Politecnico di Torino
 
-Here are some ideas to get you started:
+- 🎓 **TOPoliTO Merit Scholar** and 3rd-year Computer Engineering student at **Politecnico di Torino**.
+- 🏫 **Teaching Assistant** at Politecnico di Torino.
+- 🔬 Currently working as a **DSP & Data Analysis Intern at INRIM** (National Institute of Metrological Research).
+- 🌍 Passionate about **AI, Machine Learning, and Data Science**.
+- 🎻 **Orchestra Violinist**, volleyball player, and **traveller**.
+- 📍 Based in **Turin, Italy**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools:
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</p>
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/nehir-koyuncu-6112a129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehir-koyuncu" height="30" width="40" /></a>
+<a href="mailto:nehirkoyuncu1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nehirkoyuncu1" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 Portfolio Website:
+Check out my [Personal Portfolio](https://nehirkoyuncu.github.io/) for my CV and detailed project showcases.
