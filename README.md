@@ -1,10 +1,10 @@
 # Hi 👋, I'm Nehir Koyuncu
 
-### Data & ML-Oriented Software Engineer | Teaching Assistant @ Politecnico di Torino
+### Data & ML-Oriented Software Engineer | Teaching Assistant @ Politecnico di Torino | Research Intern at INRiM
 
 - 🎓 **TOPoliTO Merit Scholar** and 3rd-year Computer Engineering student at **Politecnico di Torino**.
 - 🏫 **Teaching Assistant** at Politecnico di Torino.
-- 🔬 Currently working as a **DSP & Data Analysis Intern at INRIM** (National Institute of Metrological Research).
+- 🔬 Currently working as a **DSP & Data Analysis Intern at INRiM** (National Institute of Metrological Research).
 - 🌍 Passionate about **AI, Machine Learning, and Data Science**.
 - 🎻 **Orchestra Violinist**, volleyball player, and **traveller**.
 - 📍 Based in **Turin, Italy**.
@@ -26,8 +26,12 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/nehir-koyuncu-6112a129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehir-koyuncu" height="30" width="40" /></a>
-<a href="mailto:nehirkoyuncu1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nehirkoyuncu1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nehir-koyuncu-6112a129b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:nehirkoyuncu1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </p>
 
 ---
